@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eman Shahid</h1>
 
-- 🔭 I’ve worked on projects using HTML, CSS, JavaScript.
-- 📫 How to reach me emanshahid.developer@gmail.com
-- ⚡ Fun fact: I have become too lazy to write a blog post these days.. 🤣
+- 🔭 I’ve worked on projects using HTML, CSS and JavaScript.
+- 💼 Job Search: Actively seeking opportunities in software engineering.
+- 📫 How to reach me emanshahid.developer@gmail.com.
+- ⚡ Fun fact: I love developing user interfaces that enhance user experience.
 
 ## 🛠️ Languages and Tools:
 
