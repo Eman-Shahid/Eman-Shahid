@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eman Shahid</h1>
 
 - 🔭 I’ve worked on projects using HTML, CSS and JavaScript.
-- 💼 Job Search: Actively seeking opportunities a software engineering position.
+- 💼 Job Search: Actively seeking opportunities as a software engineer position.
 - 📫 How to reach me emanshahid.developer@gmail.com.
 - ⚡ Fun fact: I love developing user interfaces that enhance user experience.
 
