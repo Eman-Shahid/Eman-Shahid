@@ -1,27 +1,36 @@
-<h1 align="center">Hi 👋, I'm Eman Shahid</h1>
+ Hi  I'm Eman Shahid  
 
-- 🔭 I’ve worked on projects using HTML, CSS and JavaScript.
-- 💼 Job Search: Actively seeking opportunities for a software engineer position.
-- 📫 How to reach me emanshahid.developer@gmail.com.
-- ⚡ Fun fact: I love developing user interfaces that enhance user experience.
+ Aspiring AI Engineer | Python | Machine Learning | Deep Learning  
 
-## 🛠️ Languages and Tools:
+-  I am learning and building projects in **Python, Machine Learning, Deep Learning, and Generative AI**.  
+-  I have built ML projects like **House Price Prediction** and **Customer Churn Prediction**.  
+-  My goal is to become a **professional AI Engineer**.  
+-  I upload real-world ML projects on GitHub for practice and interviews.  
 
-<p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/></code> 
-    </a> 
-     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="35" height="35"/></code> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/></code> 
-    </a> 
-</p>
+How to reach me: emanshahid.developer@gmail.com
 
+Languages and Tools
+
+Programming:
+- Python  
+- C++  
+
+Machine Learning / AI:
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Scikit-learn  
+- TensorFlow  
+- PyTorch  
+
+Tools:
+- Git  
+- GitHub  
+- VS Code  
+
+ My Projects:
+
+-  House Price Prediction (ML – Regression)  
+-  Customer Churn Prediction (ML – Classification)  
+-  Data Analysis Projects (NumPy & Pandas)  
+-  Coming Soon: Deep Learning & Generative AI Projects  
